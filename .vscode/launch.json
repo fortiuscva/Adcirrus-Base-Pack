@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Sandbox-OC-112524",
+            "request": "launch",
+            "type": "al",
+            "tenant": "56a710d7-fd37-4151-b2f2-e52518eebfff",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox-OC-112524",
+            "startupObjectId": 142,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        },
+        {
+            "name": "Sandbox_ItemCategory_Update",
+            "request": "launch",
+            "type": "al",
+            "tenant": "56a710d7-fd37-4151-b2f2-e52518eebfff",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox_ItemCategory_Update",
+            "startupObjectId": 142,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        }        
+    ]
+}

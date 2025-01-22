@@ -1,0 +1,28 @@
+{
+  "id": "d63e22fb-c371-4232-9870-9b6cbedcb3db",
+  "name": "Adcirrus-Base-Pack",
+  "publisher": "Panacea",
+  "version": "25.0.0.75",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 52199
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0"
+}
